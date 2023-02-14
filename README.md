@@ -1,2 +1,3 @@
 # GoldPricePrediction
-# its going on just started the project
+maximum code has been completed. 
+#its time  for web app
